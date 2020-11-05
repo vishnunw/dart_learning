@@ -1,0 +1,9 @@
+Dart does not have a special syntax to declare inerface
+
+An interface in dart is a normal class
+
+interface is used when you need concree implementation of all its function within its subclass
+
+It is mandatory to override all methods in implementing class
+
+you can implement multiple classes but you cannot extend multiple classes during interface

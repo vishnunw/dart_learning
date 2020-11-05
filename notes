@@ -1,0 +1,3 @@
+By default, a constructor in a subclass calls the superclass's no argument constructor.
+parent class constructor is always called before child class constructor
+If default constructor is missing in parent class then you must manually call one of the constructors in super class

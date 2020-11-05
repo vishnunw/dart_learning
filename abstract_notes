@@ -1,0 +1,16 @@
+Abstract metod
+
+To make a method abstract use semicolon instead of method body
+
+abstract method can only exist with abstract class
+
+you need to override abstract methods in subclass
+
+
+Abstract class
+
+Use abstract method to return abstract class
+
+abstract class can have abstract methods normal methods and instance variables as well
+
+abstract classes cannot be instantiated you cannot create objects

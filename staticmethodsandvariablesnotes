@@ -1,0 +1,15 @@
+Static variables are also known as class variables
+static methods are also known as class methods
+
+static variables are lazily initialized
+- they are not initialized until they are used
+so they consume memory only when they are used
+
+static methods has nothing to do with class object or instance
+
+- you cannot use this keyword within static methods
+
+from static methods
+
+- you can only access static method and static variables
+you cannot access normal instance variables and methodsof class

@@ -1,0 +1,26 @@
+Single Inheritance 
+Class B --> Class A --> Object
+
+Multilevel Inheritance
+Class C --> Class B --> Class A --> Object
+
+Heirarchial Inheritance
+Class B and Class C inherits from Class A --> Object
+
+Class B & C are subclass and Class A is Parent Class
+
+All the clases in dart Inherits from Object
+
+ Inheritance is a mechanism in which one object acquires properties of parent class objects
+Super Class of any class is object
+provides default implementation of to string(returns string representation of object), hashCode(getters returns hascode of an object), operator(== to compare two objects)
+
+
+ADVANTAGES
+Code Resusability
+Method Overriding
+Cleaner Code - No repeatation
+
+Only Child class can Call parent class not vice versa
+
+

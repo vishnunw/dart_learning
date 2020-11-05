@@ -1,0 +1,11 @@
+In Dart array is known as list
+
+In list elements are stored in ordered collection
+
+List types
+
+Fixed-length List
+Growable list
+
+Fixed length list: 
+length once defined cannot be changed later

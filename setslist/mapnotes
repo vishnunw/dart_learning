@@ -1,0 +1,14 @@
+It unordered collection of key value pair
+
+key value can be of any object type
+
+each key in a map should be unique
+the value can be repeated
+
+commonly called as hash or dictionary
+
+size of map is not fixed it can increase or decrease as per number of elements
+
+HASHMAP
+    Implementation of 
+    Based on hash-table

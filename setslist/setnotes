@@ -1,0 +1,13 @@
+Sets
+
+Unordered collection of unique items
+it does not contain duplicate elements
+
+you cannot get elements by index, since items ae unordered
+
+
+Hash Sets
+
+implementation of unordered list
+it is based on hash table based set implementation
+
